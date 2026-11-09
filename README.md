@@ -19,3 +19,18 @@ This repository represents the professional profile, legal resources, legal draf
 This repository is maintained for professional legal information, resources, drafts, and reference materials.
 
 **Location:** Lahore, Pakistan
+Legal Services
+
+Professional legal consultation, drafting, advisory and representation services.
+
+Practice Areas
+
+- Civil Litigation
+- Constitutional and Writ Petitions
+- Property and Revenue Matters
+- Legal Notices and Documentation
+- Legal Consultancy and Advisory
+
+Professional Contact
+
+For professional legal consultation and inquiries, please contact through the available professional communication channels.
